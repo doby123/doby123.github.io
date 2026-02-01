@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ### Students
-* **2205 Fall** - PHYS 3150 - Introduction to Computational Physics
+* **2025 Fall** - PHYS 3150 Introduction to Computational Physics
