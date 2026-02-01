@@ -9,13 +9,13 @@
 
 main:
   - title: "Home"
-    url: /home/
+    url: /
     
   - title: "Research"
     url: /research/
 
   - title: "Group Members"
-    url: /group-members/    
+    url: /group-members/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
