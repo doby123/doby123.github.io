@@ -15,4 +15,4 @@ author_profile: true
 * **Paul Hitopolous** - joined in 2025 Fall as a sophomore
 
 ### Visiting Researchers
-* **Dr. Geetashree Kakoti** - from Nagoya University - Oct 2025 - Jan 2026
+* **Dr. Geetashree Kakoti** - from Nagoya University, Oct 2025 - Jan 2026
