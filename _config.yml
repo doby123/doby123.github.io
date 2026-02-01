@@ -19,6 +19,17 @@ url                      : https://dlin7.org # updated to my purchased domain.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "doby123/doby123.github.io" #"academicpages/academicpages.github.io"
 
+# Navigation Provider
+# Ensure this is set to 'main' so it looks at _data/navigation.yml
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/doby123"
+
+# This line tells the theme which navigation file to use
+nav_list: main
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
