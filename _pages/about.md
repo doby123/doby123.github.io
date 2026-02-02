@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: about
 title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# Do NOT put permalink: / here if you put it in index.html. 
+# It's safer to leave it out of this file now.
 ---
 
 Educational Background
