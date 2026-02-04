@@ -18,7 +18,7 @@ url                      : "https://dlin7.org" # updated to my purchased domain.
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "doby123/doby123.github.io" #"academicpages/academicpages.github.io"
-remote_theme: "academicpages/academicpages.github.io"
+#remote_theme: "academicpages/academicpages.github.io"
 
 # Navigation Provider
 # Ensure this is set to 'main' so it looks at _data/navigation.yml
