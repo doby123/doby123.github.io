@@ -18,18 +18,18 @@ url                      : "https://dlin7.org" # updated to my purchased domain.
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "doby123/doby123.github.io" #"academicpages/academicpages.github.io"
-remote_theme: "academicpages/academicpages.github.io"
+# remote_theme: "academicpages/academicpages.github.io"
 
 # Navigation Provider
 # Ensure this is set to 'main' so it looks at _data/navigation.yml
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/doby123"
+# footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/doby123"
 
 # This line tells the theme which navigation file to use
-nav_list: main
+# nav_list: main
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -46,63 +46,63 @@ author:
   email            : "dlin7@clemson.edu" 
 
   # Academic websites
-#  academia         : # URL
-#  arxiv            : # URL - Update with the correct link to your profile
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=FaHv4J0AAAAJ&hl=en"
-#  inspire-hep      : # URL
-#  impactstory      : # URL
+  inspire-hep      : # URL
+  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2894-6677"
-#  semantic         : # URL
-#  ssrn             : # URL
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  researchgate     : # URL
-#  scopus           : # URL
-#  zotero           : # URL
+  semantic         : # URL
+  ssrn             : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
+  zotero           : # URL
 
 
   # Repositories and software development
-#  bitbucket        : # Username - Update with your username on the site
-#  codepen          : # Username
-#  dribbble         : # Username
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
   github           : "doby123"
-#  kaggle           : # Username  
-#  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-#  artstation       : # Username
-#  bluesky          : "bsky.app" # Replace this with you Bluesky username
-#  facebook         : # Username
-#  flickr           : # Username
-#  foursquare       : # Username
-#  goodreads        : # Username
-#  google_plus      : # Username
-#  keybase          : # Username
-#  instagram        : # Username
-#  lastfm           : # Username
+  artstation       : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
   linkedin         : "dong-lin-3a49bbb9/"
-#  mastodon         : # URL
-#  medium           : # URL
-#  pinterest        : # Username
-#  soundcloud       : # Username
-#  steam            : # Username
-#  telegram         : # URL
-#  tumblr           : # Username
-#  twitter          : # Username for X / Twitter
-#  vine             : # Username
-#  weibo            : # Username
-#  wikipedia        : # Username
-#  xing             : # Username
-#  youtube          : # Username
-#  zhihu            : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
-#  books:
-#    title: 'Books'
-#  manuscripts:
-#    title: 'Journal Articles'    
-#  conferences:
-#    title: 'Conference Papers'
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
