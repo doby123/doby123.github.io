@@ -41,7 +41,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Space Physics"
   location         : "Clemson, SC, USA"
-  employer         : "Clemson University"
+  employer         : "[Clemson University](https://www.clemson.edu/)"
   uri              : "https://www.clemson.edu/science/academics/departments/physics/about/profiles/dlin7"# URL
   email            : "dlin7@clemson.edu" 
 
@@ -54,7 +54,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-2894-6677"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -70,7 +70,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
