@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Dong Lin"
+title                    : "林栋"
 title_separator          : "-"
 name                     : &name "Dong Lin"
 description              : &description "Assistant Professor"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -41,7 +41,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Space Physics"
   location         : "Clemson, SC, USA"
-  employer         : "[Clemson University](https://www.clemson.edu/)"
+  employer         : "Clemson University"
   uri              : "https://www.clemson.edu/science/academics/departments/physics/about/profiles/dlin7"# URL
   email            : "dlin7@clemson.edu" 
 
