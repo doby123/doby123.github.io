@@ -14,7 +14,11 @@ My primary research interest is in the interactions between the Earth's atmosphe
 
 * **Thermal Coupling** Thermodynamic pathway refers to the heat flux between the hot magnetospheric plasma (1s-1000s eV, where 1 eV ~ 11600 K) and relatively cooler upper atmospheric plasma (100s-1000s K).
 
+* **Space Weather** Atmosphere-geospace interactions are critical processes causing variabilities in the near-Earth space environment and on the ground. These effects are known as space weather. Typicall effects include thermospheric neutral density enhanced satelltie drag, ionospheric electron content disturbance and scintillation, and ground geomagnetic perturbations.
+
 * **Methodology** I have been mainly using the Multiscale Atmosphere-Geospace Environment ([MAGE](https://cgs.jhuapl.edu/MAGE/Using-MAGE.php)) model to explore the particle, EM, and heat fluxes in the coupled atmosphere-geospace environment. The MAGE model has been under active development at the NASA DRIVE Science Center for Geospace Storms ([CGS](https://cgs.jhuapl.edu/)).
+
+![Overview of the research projects](/images/research-overview.png)
 
 ## Selected Publications (A full list of publications can be found at my [Google Scholar](https://scholar.google.com/citations?user=FaHv4J0AAAAJ&hl=en) page)
 * Lin, D., Hartinger, M., Lotko, W., Wang, W., Shi, X., Sorathia, K., et al. (2026). Efficiency of electromagnetic energy transfer from solar wind to ionosphere through magnetospheric ultra-low frequency waves. Geophysical Research Letters, 53, e2025GL118532. [https://doi.org/10.1029/2025GL118532](https://doi.org/10.1029/2025GL118532)
