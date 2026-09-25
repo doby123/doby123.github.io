@@ -41,3 +41,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.visitor-map-container {
+  box-sizing: border-box;
+  width: min(100%, 220px);
+  height: 220px;
+  margin: 1rem auto 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.visitor-map-container iframe,
+.visitor-map-container img,
+.visitor-map-container canvas,
+.visitor-map-container svg {
+  box-sizing: border-box;
+  display: block;
+  max-width: 100% !important;
+  max-height: 220px !important;
+}
